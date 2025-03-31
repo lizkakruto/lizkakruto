@@ -17,7 +17,7 @@
 
 
 
-Сюжет сгенерированній сценарием (рисунок №1)
+(рисунок №1)
 ![gggh](https://github.com/user-attachments/assets/ece4f453-6658-4b04-b006-47d35b708ad1)
 
 
